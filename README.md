@@ -1,4 +1,5 @@
 ## For more information and live demo: [Zeno GUI](https://zenocrypto.com)
 ![](https://zenocrypto.com/img/macbook-pro.png)
 ### Looking to download? [Releases](https://github.com/zenocrypto/zeno-gui/releases)
+### Looking for older releases? [Releases](https://github.com/Sjakil/gunthy-gui/releases)
 ### Have a question? [Wiki](https://github.com/zenocrypto/zeno-gui/wiki)
